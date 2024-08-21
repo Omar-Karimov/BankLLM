@@ -1,0 +1,254 @@
+[
+    {
+        "product_id": "1",
+        "name": "Visa Classic",
+        "description": "A widely accepted card with standard features.",
+        "features": "Global acceptance, Basic rewards",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "2",
+        "name": "Visa Gold",
+        "description": "A premium card offering better rewards and services.",
+        "features": "Higher credit limit, Travel insurance",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "3",
+        "name": "Visa Platinum",
+        "description": "An elite card with exclusive benefits.",
+        "features": "Premium rewards, Concierge service",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "4",
+        "name": "MasterCard Standard",
+        "description": "A basic card with essential features.",
+        "features": "Global acceptance, Fraud protection",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "5",
+        "name": "MasterCard Gold",
+        "description": "A premium card with enhanced benefits.",
+        "features": "Higher rewards, Travel perks",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "6",
+        "name": "MasterCard Platinum",
+        "description": "A card for the elite, offering exclusive services.",
+        "features": "Luxury rewards, Personalized offers",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "7",
+        "name": "American Express",
+        "description": "A card known for superior customer service.",
+        "features": "Membership rewards, Travel benefits",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "8",
+        "name": "Discover",
+        "description": "A card offering cashback rewards.",
+        "features": "No annual fee, Cashback on purchases",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "9",
+        "name": "UnionPay",
+        "description": "A card widely accepted in Asia.",
+        "features": "Global acceptance, Special offers in Asia",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "10",
+        "name": "Maestro",
+        "description": "A debit card with worldwide acceptance.",
+        "features": "No credit check, Pay as you go",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "11",
+        "name": "Visa Electron",
+        "description": "A debit card with no credit facility.",
+        "features": "Online payments, No overdraft",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "12",
+        "name": "JCB",
+        "description": "A card popular in Japan with unique rewards.",
+        "features": "Exclusive offers in Japan, Travel insurance",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "13",
+        "name": "Diners Club",
+        "description": "A prestigious card with global privileges.",
+        "features": "Exclusive dining offers, Airport lounge access",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "14",
+        "name": "Prepaid Card",
+        "description": "A card that can be preloaded with funds.",
+        "features": "No credit check, Spend control",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "15",
+        "name": "Business Card",
+        "description": "A card designed for business expenses.",
+        "features": "Expense tracking, Business rewards",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "16",
+        "name": "Salary Card",
+        "description": "A card used to receive and manage salaries.",
+        "features": "No fee, Payroll integration",
+        "category": "Plastic Card"
+    },
+    {
+        "product_id": "17",
+        "name": "Fixed Deposit",
+        "description": "A secure investment option with a fixed interest rate.",
+        "features": "Guaranteed returns, Flexible tenure",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "18",
+        "name": "Savings Account",
+        "description": "A basic account for saving money with interest.",
+        "features": "Interest on balance, No lock-in",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "19",
+        "name": "Recurring Deposit",
+        "description": "A product to save regularly and earn interest.",
+        "features": "Monthly deposits, Fixed interest rate",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "20",
+        "name": "Term Deposit",
+        "description": "A deposit with a fixed tenure and interest rate.",
+        "features": "Guaranteed returns, Early withdrawal penalty",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "21",
+        "name": "High Yield Savings",
+        "description": "A savings account offering higher interest rates.",
+        "features": "Higher interest, Online management",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "22",
+        "name": "Junior Savings Account",
+        "description": "A savings account designed for children.",
+        "features": "Parental control, Lower minimum balance",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "23",
+        "name": "Retirement Savings Account",
+        "description": "A savings account aimed at retirement planning.",
+        "features": "Tax benefits, Long-term savings",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "24",
+        "name": "Foreign Currency Deposit",
+        "description": "A deposit account in foreign currencies.",
+        "features": "Currency diversification, Competitive interest",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "25",
+        "name": "Senior Citizens Savings Scheme",
+        "description": "A deposit product for senior citizens.",
+        "features": "Higher interest rates, Tax benefits",
+        "category": "Deposit"
+    },
+    {
+        "product_id": "26",
+        "name": "Home Loan",
+        "description": "A loan for purchasing a home with flexible terms.",
+        "features": "Long tenure, Tax benefits",
+        "category": "Loan"
+    },
+    {
+        "product_id": "27",
+        "name": "Personal Loan",
+        "description": "An unsecured loan for personal needs.",
+        "features": "Quick approval, No collateral",
+        "category": "Loan"
+    },
+    {
+        "product_id": "28",
+        "name": "Car Loan",
+        "description": "A loan for purchasing a vehicle with easy repayment.",
+        "features": "Low interest rates, Flexible tenure",
+        "category": "Loan"
+    },
+    {
+        "product_id": "29",
+        "name": "Education Loan",
+        "description": "A loan for funding higher education.",
+        "features": "Lower interest rates, Moratorium period",
+        "category": "Loan"
+    },
+    {
+        "product_id": "30",
+        "name": "Gold Loan",
+        "description": "A secured loan against gold ornaments.",
+        "features": "Quick disbursal, Competitive interest",
+        "category": "Loan"
+    },
+    {
+        "product_id": "31",
+        "name": "Loan Against Property",
+        "description": "A secured loan against property.",
+        "features": "Lower interest, Higher loan amount",
+        "category": "Loan"
+    },
+    {
+        "product_id": "32",
+        "name": "Travel Insurance",
+        "description": "A product offering protection during travel.",
+        "features": "Coverage for medical emergencies, Trip cancellation",
+        "category": "Insurance"
+    },
+    {
+        "product_id": "33",
+        "name": "Health Insurance",
+        "description": "A product covering medical expenses.",
+        "features": "Cashless treatment, Wide network of hospitals",
+        "category": "Insurance"
+    },
+    {
+        "product_id": "34",
+        "name": "Life Insurance",
+        "description": "A product providing financial security to your family.",
+        "features": "Tax benefits, Death benefits",
+        "category": "Insurance"
+    },
+    {
+        "product_id": "35",
+        "name": "Mutual Fund",
+        "description": "An investment product pooling money from many investors.",
+        "features": "Diversified portfolio, Professional management",
+        "category": "Investment"
+    },
+    {
+        "product_id": "36",
+        "name": "Wealth Management",
+        "description": "A comprehensive service for managing your wealth.",
+        "features": "Personalized financial advice, Portfolio management",
+        "category": "Investment"
+    }
+]
